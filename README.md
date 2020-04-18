@@ -37,7 +37,6 @@
 - [*JeJu*] : Spring web maven project
 - [*PantoneColor*] : Pantone color Android app
 - [*AdminPage*] : Admin Directory Depth
-
 - [*ParallaxScroll*] : Parallax Scroll Page
 - [*InfiniteScroll*] : Infinite Scroll Page
 - [cypress] : test code
