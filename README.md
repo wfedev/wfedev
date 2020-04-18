@@ -5,9 +5,9 @@
 
 ### Diary
 
-- [*🌱*](https://github.com/Diary-blog/Todo/issues) : Programing Study `Private`
+- [*🌱*](https://github.com/Diary-blog/Study/issues) : Programing Study `Private`
 
-- [*📝*](https://github.com/Diary-blog/Study/issues) : Todo `Private`
+- [*📝*](https://github.com/Diary-blog/Todo/issues) : Todo `Private`
 
 - [*✍️*](https://github.com/Diary-blog/Thinking/issues) : Thinking `Private`
 
