@@ -25,7 +25,6 @@
 - [*FramerX*](https://github.com/wfedev/wfedev/blob/master/Study/FramerX.md) : ReactJS Interaction `Private`
 - [*Publishing*](https://github.com/wfedev/wfedev/blob/master/Study/Publishing.md) : ReacJS Clone Coding `Private`
 - [*YeoksamStudy*](https://github.com/wfedev/YeoksamStudy) : ReactJS Yeoksam Study `Private`
-- [*Moka Team*](./Study/Moka/MokaReact.md) : ReactJS Blog Study
 
 <br />
 
