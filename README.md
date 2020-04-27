@@ -12,7 +12,7 @@
 
 ### Diary
 
-- [*📙*](https://diary-blog.github.io) : BookMark
+- [*📙*](https://diary-blog.github.io) : BookMark Gatsby Blog
 
 - [*🌱*](https://github.com/Diary-blog/Study/issues) : Programing Study `Private`
 
