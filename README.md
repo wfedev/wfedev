@@ -2,8 +2,17 @@
 
 <br /><br />
 
+### Portfolio
+
+- [*🎨*](https://github.com/gr-p/gr-p.github.io) : *2012-2020* Graphic Design `Private`
+
+- [*💻*](https://github.com/fe-p/fe-p.github.io) : *2015-2020* Front-end Dev `Private`
+
+<br />
 
 ### Diary
+
+- [*📙*](https://diary-blog.github.io) : BookMark
 
 - [*🌱*](https://github.com/Diary-blog/Study/issues) : Programing Study `Private`
 
