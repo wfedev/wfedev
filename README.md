@@ -22,9 +22,12 @@
 
 <br />
 
+### MSA
+
+- [*Microservice*](https://github.com/wfedev/msa): Nodejs, React, k8s, AWS `Private`
+
 ### <img width="36" alt="js" src="https://user-images.githubusercontent.com/54713067/82123075-4f71b600-97d2-11ea-9b86-e1c17811d3cc.png"> JavaScript
 
-- [*MSA*](https://github.com/wfedev/javascript): Microservice app (Nodejs, React, AWS)  `Private`
 - [*Algorithm*](https://github.com/wfedev/algorithm) : Data Structures + Algorithms  `Private`
 
 <br />
