@@ -34,12 +34,12 @@
 
 ### ![image](https://user-images.githubusercontent.com/54713067/74564694-fae05400-4fb2-11ea-961e-c2d777573e73.png) ReactJS Simple Example
 
-- [*CRUD*](https://github.com/wfedev/wfedev/blob/master/ReactJS/CRUD.md) : ReactJS CRUD example `Private`
-- [*Router*](https://github.com/wfedev/wfedev/blob/master/ReactJS/Router.md) : ReactJS Router url & page move `Private`
-- [*Table*]() : Responsive Table
-- [*ParallaxScroll*]() : Parallax Scroll Page
-- [*InfiniteScroll*]() : Infinite Scroll Page
-- [*Cypress, Jest*]() : test
+- [*CRUD*]() : ReactJS CRUD example `Private`
+- [*Router*]() : ReactJS Router url & page move `Private`
+- [*Table*]() : Responsive Table `Private`
+- [*ParallaxScroll*]() : Parallax Scroll Page `Private`
+- [*InfiniteScroll*]() : Infinite Scroll Page `Private`
+- [*Cypress, Jest*]() : test `Private`
 
 
 <br />
@@ -54,12 +54,12 @@
 
 ### 📌 Etc Project
 
-- [*blog*](https://github.com/sweet-react/blog) : wfedev blog `Private`
-- [*Sweet*](https://github.com/wfedev/wfedev/blob/master/Study/SweetList.md) : ReactJS, Framer, storybook, Chrome Extention `Private`
+- [*blog*]() : wfedev blog `Private`
+- [*Sweet*]() : ReactJS, Framer, storybook, Chrome Extention `Private`
 
-- [*JeJu*]() : Spring web maven project
-- [*PantoneColor*]() : Pantone color Android app
-- [*AdminPage*]() : Admin Directory Depth
-- [*IBM*]() : 2020 Call for Code
+- [*JeJu*]() : Spring web maven project `Private`
+- [*PantoneColor*]() : Pantone color Android app `Private`
+- [*AdminPage*]() : Admin Directory Depth `Private`
+- [*IBM*]() : 2020 Call for Code `Private`
 
 
