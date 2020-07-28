@@ -1,4 +1,4 @@
-## ⚡ Repository List
+## ⚡ My Repo
 
 <br /><br />
 
@@ -46,8 +46,8 @@
 
 ### ![image](https://user-images.githubusercontent.com/54713067/74564694-fae05400-4fb2-11ea-961e-c2d777573e73.png) ReactJS Study
 
-- [*FramerX*](https://github.com/wfedev/wfedev/blob/master/Study/FramerX.md) : ReactJS Interaction `Private`
-- [*Publishing*](https://github.com/wfedev/wfedev/blob/master/Study/Publishing.md) : ReacJS Clone Coding Study`Private`
+- [*FramerX*](https://github.com/wfedev/FramerX.md) : ReactJS Interaction `Private`
+- [*Publishing*](https://github.com/wfedev/Publishing.md) : ReacJS Clone Coding Study`Private`
 - [*Yeoksam*](https://github.com/wfedev/YeoksamStudy) : ReactJS Yeoksam Study `Private`
 
 <br />
