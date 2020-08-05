@@ -1,0 +1,40 @@
+/* @import url() */
+
+@font-face {font-family: 'JetBrainsMono bold'; src: url(./font/JetBrainsMono-Bold.ttf)}
+@font-face {font-family: 'JetBrainsMono bold-Italic'; src: url(./font/JetBrainsMono-Bold-Italic.ttf)}
+
+@font-face {font-family: 'JetBrainsMono ExtraBold'; src: url(./font/JetBrainsMono-ExtraBold.ttf)}
+@font-face {font-family: 'JetBrainsMono ExtraBold-Italic'; src: url(./font/JetBrainsMono-ExtraBold-Italic.ttf)}
+
+@font-face {font-family: 'JetBrainsMono Italic'; src: url(./font/JetBrainsMono-Italic.ttf)}
+
+@font-face {font-family: 'JetBrainsMono Medium'; src: url(./font/JetBrainsMono-Medium.ttf)}
+@font-face {font-family: 'JetBrainsMono Medium-Italic'; src: url(./font/JetBrainsMono-Medium-Italic.ttf)}
+
+@font-face {font-family: 'JetBrainsMono Regular'; src: url(./font/JetBrainsMono-Regular.ttf)}
+
+/*
+'JetBrainsMono bold',
+'JetBrainsMono bold-Italic',
+'JetBrainsMono ExtraBold',
+'JetBrainsMono ExtraBold-Italic',
+'JetBrainsMono Italic',
+'JetBrainsMono Medium-Italic',
+'JetBrainsMono Medium',
+*/
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'JetBrainsMono',
+  'JetBrainsMono Regular',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'JetBrainsMono';
+}
+
+h2 {font-size: 1.3rem;}
