@@ -4,7 +4,7 @@
 
 ### Resume & Portfolio
 
-- [*📝*](https://github.com/fe-p/fe-p.github.io/pf) : *2012-2020* Resume
+- [*📝*](https://fe-p.github.io/pf/) : *2012-2020* Resume
 
 <br />
 
