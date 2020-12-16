@@ -2,7 +2,7 @@
 
 [*🎨*](https://github.com/gr-p/interaction) : UI Interaction ( *HTML, CSS, SCSS, JS* )
 
-[*📙*](https://diary-blog.github.io) : Gatsby Blog ( *BookMark* )
+[*📙*](https://diary-blog.github.io) : Gatsby Blog ( *BookMark, My story* )
 
 *🔒* : Portfolio ( *Design & Dev* ) `Private`
 
