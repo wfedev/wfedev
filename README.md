@@ -6,7 +6,7 @@
 
 *🔒* : Portfolio ( *Design & Dev* ) `Private`
 
-*🌼* : FE development Study `Private`
+*🌼* : FE Development ( *All in FE* ) `Private`
 
 <br />
 
