@@ -1,10 +1,12 @@
 [*⚡*](https://fe-p.github.io/) : Resume ( *2012-2020* )
 
-[*🎁*](https://github.com/gr-p/interaction) : UI Interaction ( *HTML, SCSS, JS, GSAP* )
+[*🎁*](https://github.com/gr-p/interaction) : UI Interaction ( *HTML, SCSS, JS* )
 
 [*📙*](https://diary-blog.github.io) : Gatsby Blog ( *BookMark, Dev blog* )
 
 *🔒* : Portfolio ( *Design & Dev* ) `Private`
+
+*🌼* : FE development Study `Private`
 
 <br />
 
