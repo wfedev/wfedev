@@ -4,11 +4,11 @@
 O☕O   ːː Interest to simplify Web development
 ```
 
-[*🌿*](https://fe-p.github.io/) : Resume ( *2012-2021* )
+[*🌿*](https://github.com/fe-w/erin) : Resume ( *2012-2021* )
 
 [*📑*](https://diary-blog.github.io) : Gatsby Blog ( *BookMark, Dev blog* )
 
-[*🏔️*](https://github.com/gr-p/interaction) : Interactive UI Collection ( *SCSS, SVG* )
+[*🏔️*](https://github.com/fe-w/interaction) : Interactive UI Collection ( *SCSS, SVG* )
 
 [*🌸*](https://github.com/fe-w) : Web development ( *Design & Dev* ) `Private`
 
