@@ -6,7 +6,7 @@
 
 *🔒* : Portfolio ( *Design & Dev* ) `Private`
 
-[*🌼*](https://github.com/f-e-dev) : FE Development ( *All in FE* ) `Private`
+[*🌸*](https://github.com/fe-w) : FE Dev `Private`
 
 <br /> 
 
