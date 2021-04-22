@@ -4,7 +4,7 @@
 O☕O   ːː Interest to simplify Web development
 ```
 
-[*🌿*](https://github.com/fe-w/erin) : Resume ( *2012-2021* )
+[*🌿*](https://fe-w.github.io/erin/) : Resume ( *2012-2021* )
 
 [*📑*](https://diary-blog.github.io) : Gatsby Blog ( *BookMark, Dev blog* )
 
