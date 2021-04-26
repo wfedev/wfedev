@@ -1,7 +1,7 @@
 ```
 (\_(\
-(•֊ •)  ːː Designer and web developer
-O☕O   ːː Interest to simplify Web development
+(•֊ •)  ːː Hi! I'm Erin. I design and develop web services.
+O☕O   ːː I'm interested in simplifying the process of web development
 ```
 
 [*🌿*](https://fe-w.github.io/erin/) : Resume ( *2012-2021* )
