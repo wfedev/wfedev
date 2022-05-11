@@ -1,14 +1,6 @@
-```
-(\_(\
-(•֊ •) :: Hi! I'm Erin. I design and develop web services.
-O📚O  :: Interested in simplifying the process of web development.
-```
+[🔸️](https://fe-w.github.io/erin/) *About me*
 
-[◻️](https://fe-w.github.io/erin/) Resume ( *2012-2021* )
-
-[◻️](https://diary-blog.github.io) Bookmark ( *Dev blog* )
-
-[◻️](https://github.com/fe-w) Web dev ( *Design & Dev* )
+[🔸️](https://github.com/webgldev) *Graphics dev*
 
 <br /> 
 
