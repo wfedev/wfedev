@@ -1,6 +1,4 @@
-[🫧](https://fe-w.github.io/erin/) *About me*
-
-[🫧](https://github.com/webgldev) *Graphics dev*
+[✨](https://fe-w.github.io/erin/) *About me*
 
 <br /> 
 
